@@ -1,6 +1,6 @@
 # State-Based-LWW-Element-Graph
 
-- <header>Description
+- <h4>Description
 
   Implementation of a state-based LWW-Element-Graph with test cases.
   The graph contain functionalities to:
