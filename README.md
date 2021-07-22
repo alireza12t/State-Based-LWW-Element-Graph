@@ -1,5 +1,11 @@
 # State-Based-LWW-Element-Graph
 
+- ## Requirements
+  - Xcode Version 12.5 (12E262)
+  - Swift Version 5.4
+  
+- ## Installation Instructions
+
 - ## Description
 
   Implementation of a state-based LWW-Element-Graph with test cases, The graph contain functionalities to:
