@@ -1,6 +1,6 @@
 # State-Based-LWW-Element-Graph
 
-- Description:
+- Description:\n
   Implementation of a state-based LWW-Element-Graph with test cases.
   The graph contain functionalities to:
   - add a vertex/edge
